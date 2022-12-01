@@ -8,3 +8,4 @@ Projects
 
 * [Day 1 - Band Name Generator](https://github.com/darwiky/100DaysOfCode/blob/main/band-name-generator.py)
 * [Day 2 - Tip Calculator](https://github.com/darwiky/100DaysOfCode/blob/main/tip-calculator.py)
+* [Day 3 - Treasure Island](https://github.com/darwiky/100DaysOfCode/blob/main/treasure-island.py)
